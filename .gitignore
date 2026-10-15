@@ -1,0 +1,6 @@
+# Local Python bytecode is not part of the submitted analysis.
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+.DS_Store
