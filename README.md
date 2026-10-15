@@ -9,8 +9,6 @@
 
 主要结论：2015 年 7 月参考窗口中，回归模型日 MAE 为 109,611（Baseline 为 264,217，降低 58.5%），四周合计仅高估 1.40%；三窗口开发期内 Forest 按日 MAE 略优于 Trend（领先 0.95%），但 Trend 在 RMSE 和四周总量误差上更稳健。节假日仍是主要误差来源，模型的实际业务适用性需在新数据上进一步验证。
 
-**声明：本项目内容由王俊尧个人独立完成；因课程要求由小组组长统一提交至小组仓库。**
-
 ## English summary
 
 A Monash ADS1002 data-science project forecasting combined daily sales of the top-20% Rossmann stores over a 28-day horizon, comparing seven calendar-based procedures with rolling backtests and a Random Forest sensitivity check.
